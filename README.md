@@ -1,34 +1,37 @@
 ## \# **📊 Survey Dashboard — Google Sheets**
 
 
+## Overview
+Collected dummy survey data (20 responses) and created an interactive dashboard to visualize and analyze survey trends. Data was cleaned, grouped, and visualized for insights.
 
-Collected dummy survey data (20 responses).  
+## Features / Key Insights
+- Cleaned survey data: removed duplicates and blanks  
+- Grouped Age and calculated Rating distribution  
+- City-wise survey response split  
+- Interactive charts for:  
+  - City-wise Ratings  
+  - Rating-wise Distribution  
+  - Age Group-wise Distribution  
+- Final Dashboard Sheet for clear insights  
 
-Cleaned the data: removed duplicates, blanks.  
+## Technologies Used
+- Google Sheets  
 
-Grouped Age, calculated Rating distribution, City-wise split.
+## Skills Applied
+- Data Cleaning  
+- COUNTIF formulas  
+- Charts / Dashboarding  
+- Data Visualization  
 
-
-
-Created interactive charts:
-
-\- City-wise Ratings
-
-\- Rating-wise Distribution
-
-\- Age Group-wise Distribution
+## Screenshot
+![Survey Dashboard Screenshot]
 
 
 
-Final Dashboard Sheet for insights.
 
 
 
-**\*\*Tools Used:\*\*** Google Sheets  
 
-**\*\*Skills:\*\*** Data Cleaning, COUNTIF, Charts, Dashboarding  
-
-**\*\*Author:\*\*** Priya Singh | Greater Noida | 
 
 
 
