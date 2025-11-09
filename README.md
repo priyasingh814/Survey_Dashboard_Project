@@ -23,8 +23,8 @@ Collected dummy survey data (20 responses) and created an interactive dashboard 
 - Charts / Dashboarding  
 - Data Visualization  
 
-## Screenshot
-![Survey Dashboard Screenshot]
+
+
 
 
 
